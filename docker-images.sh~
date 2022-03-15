@@ -1,3 +1,0 @@
-#List docker images
-docker image ls
-docker images
